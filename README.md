@@ -3,8 +3,11 @@
 I created this Wolfram notebook to play around and understand the path delay and doppler shift of a radio signal in a dispersive medium. You can find the main sources of my work in the notebook itself.
 
 **Author**: Giuliano Vinci
+
 **Affiliation**: PhD student in Aerospace Sciences and Technologies at University of Bologna
+
 **Date**: February 28, 2025
+
 **Email**: giuliano.vinci@unibo.it
 
 ## Important notes for the notebook:
